@@ -3,6 +3,8 @@
  Mtklnr: 944 182
 Programmiersprache: C++
  
+ das ist ein test für git! ich ändere hier was um zu schauen ob es in git gemerkt wird!
+
  Allgemeine Algorithmische Strategie:
 
 Level 1: Hier haben wir mit Konstanten die Literale für folgende Operationen festgelegt: 

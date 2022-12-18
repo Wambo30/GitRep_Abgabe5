@@ -4,6 +4,7 @@
 Programmiersprache: C++
  
  das ist ein test für git! ich ändere hier was um zu schauen ob es in git gemerkt wird!
+ Zweiter Kommentar zum testen!
 
  Allgemeine Algorithmische Strategie:
 

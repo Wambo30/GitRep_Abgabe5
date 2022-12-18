@@ -224,4 +224,4 @@ int main ()
 }  // ENDE main()
 
 
-
+// das ist ein Kommentar um zu testen was passiert!
